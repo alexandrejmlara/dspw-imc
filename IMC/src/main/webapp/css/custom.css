@@ -1,0 +1,15 @@
+.mytitle {
+    font-family: 'Raleway', sans-serif !important;
+    text-align: center;
+    color: yellow;
+    font-size: 5vw;
+    font-weight: bolder;
+}
+
+.introtext {
+    font-family: 'Raleway', sans-serif !important;
+    text-align: center;
+    color:  #ffff00;
+    font-size: 1.4vw;
+    font-weight: bolder;
+}
